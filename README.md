@@ -1,6 +1,6 @@
 # AutoDownload
 
-Ce script a pour but de nettoyer la liste de torrent sur mon raspberry avant que ça devienne automatique.
+Ce script a pour but de nettoyer la liste de torrent sur mon raspberry afin que ça devienne automatique.
 
 On récupére la date actuelle
 
